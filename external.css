@@ -1,0 +1,39 @@
+
+div {
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    border-style: solid;
+    text-align:center;
+}
+.one {
+    margin-top:0%;
+    margin-left:0%;
+    background-color: blue;
+    border-width: 5px;
+}
+.two{
+    margin-top:0%;
+    margin-left:220px;
+    background-color: green;
+    border-width: 10px;
+}
+.three{
+    margin-top:0%;
+    margin-left:440px;
+    background-color: red;
+    border-width: 20px;
+}
+
+.four{
+    margin-top:0%;
+    margin-left:660px;
+    background-color: orange;
+    border-width:40px;
+}
+.five{
+    margin-top:0%;
+    margin-left:880px;
+    background-color: pink;
+    border-width:80px;
+}
