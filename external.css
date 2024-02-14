@@ -14,26 +14,26 @@ div {
 }
 .two{
     margin-top:0%;
-    margin-left:220px;
+    margin-left:230px;
     background-color: green;
     border-width: 10px;
 }
 .three{
     margin-top:0%;
-    margin-left:440px;
+    margin-left:470px;
     background-color: red;
     border-width: 20px;
 }
 
 .four{
     margin-top:0%;
-    margin-left:660px;
+    margin-left:730px;
     background-color: orange;
     border-width:40px;
 }
 .five{
     margin-top:0%;
-    margin-left:880px;
+    margin-left:1030px;
     background-color: pink;
     border-width:80px;
 }
